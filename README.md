@@ -4,7 +4,7 @@ Welcome to my 2022 NFL Playoff Preview. Here I look at historical data on net ya
 
 **To see my post please visit my website via the following link [2022 NFL Playoff Preview](https://jquam15.github.io/2022_NFL_Playoff_Preview.html). This github repository provides the code for my analysis if you'd like to see how I did it, but I would encourage you to read the post.**
 
-I would also highly encourage you to check out the rest of my work on my [website](https://jquam15.github.io/)
+I would also highly encourage you to check out the rest of my work on my [website](https://jquam15.github.io/)!
 
 The folders each contain files that are either not applicable to the 2022 preview, or were pre-processing steps:
 
